@@ -26,6 +26,12 @@ The analysis was performed in Python using Jupyter Notebook.
 - Correlation Heatmaps
 - Numerical and Categorical Feature Analysis
 
+- ## Correlation Heatmap
+
+The correlation analysis highlights the relationships between movie features, with budget and audience votes showing the strongest positive associations with gross earnings.
+
+![Correlation Matrix for Movie Features](correlation_heatmap.png)
+
 ## Key Findings
 
 - Budget showed the strongest positive correlation with gross earnings at approximately 0.74.
