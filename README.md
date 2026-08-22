@@ -41,13 +41,13 @@ The correlation analysis highlights the relationships between movie features, wi
 
 ## Key Findings
 
-- Budget showed the strongest positive correlation with gross earnings at approximately 0.74.
-- Votes showed a moderately strong positive correlation with gross earnings at approximately 0.61.
-- Higher-budget movies generally tended to generate higher gross revenue.
-- Movies with more audience votes also tended to have higher gross earnings.
-
+- **Budget vs Gross: 0.74** — Strong positive correlation, indicating that higher-budget movies tend to generate higher gross earnings.
+- **Votes vs Gross: 0.61** — Moderately strong positive correlation, suggesting that movies with greater audience engagement tend to earn more.
+- Budget showed the **strongest association with gross earnings** among the numerical variables analyzed.
+- Score, runtime, and year showed comparatively weaker relationships with gross earnings.
+- 
 ## Conclusion
 
-Budget and audience engagement were the variables most strongly associated with gross movie earnings in this dataset.
+The analysis indicates that **movie budget and audience engagement (votes)** are the variables most strongly associated with gross earnings in this dataset.
 
-Correlation indicates association and does not necessarily imply causation.
+While these relationships are significant, correlation represents association and does not necessarily imply causation.
