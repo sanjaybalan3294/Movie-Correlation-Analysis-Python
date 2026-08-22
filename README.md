@@ -32,6 +32,13 @@ The correlation analysis highlights the relationships between movie features, wi
 
 ![Correlation Matrix for Movie Features](correlation_heatmap.png)
 
+## Project Structure
+
+- `Movie_Correlation_Project.ipynb` — Complete Python analysis and visualizations
+- `movies.csv` — Movie industry dataset used for analysis
+- `correlation_heatmap.png` — Full correlation matrix visualization
+- `README.md` — Project documentation
+
 ## Key Findings
 
 - Budget showed the strongest positive correlation with gross earnings at approximately 0.74.
